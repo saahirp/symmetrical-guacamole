@@ -1,0 +1,42 @@
+body{
+    background-size: cover;
+}
+.divmain{
+    width: 100%;
+}
+#title{
+    text-align: left;
+    display: inline;
+    font-size: 33px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.instructions{
+    float: right;
+}
+.mariobackground{
+    width: 100%;
+}
+#startbtn, #status{
+    font-size: 27px;
+    border-radius: 15px;
+}
+h4{
+    margin: 0px;
+    background-color:rgb(0, 200, 255);
+    line-height: 2;
+    border-radius: 10px;
+}
+.modal_dialog{
+    width: 88%;
+}
+.instruction_image{
+    display: inline-block;
+    width: 44%;
+}
+
+video{
+    background:url('game_console.png') ;
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
